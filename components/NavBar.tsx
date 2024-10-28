@@ -64,9 +64,9 @@ const Icons = {
 
 const DATA = {
   navbar: [
-    { href: "#", icon: HomeIcon, label: "Inicio" },
-    { href: "#", icon: CodeIcon, label: "Proyectos" },
-    { href: "#", icon: MessageCircle, label: "Contacto" },
+    { href: "/", icon: HomeIcon, label: "Inicio" },
+    { href: "/proyectos", icon: CodeIcon, label: "Proyectos" },
+    { href: "/contacto", icon: MessageCircle, label: "Contacto" },
 
 
   ],
